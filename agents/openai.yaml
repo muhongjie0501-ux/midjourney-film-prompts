@@ -1,0 +1,4 @@
+interface:
+  display_name: "Midjourney 电影提示词"
+  short_description: "将电影人物与场景想法转为 Midjourney 英文提示词、忠实中文和官网设置"
+  default_prompt: "使用 $midjourney-film-prompts，根据我的想法给出可复制英文提示词、忠实中文和 Midjourney 官网设置；如果我说先讨论，就先讨论。"
